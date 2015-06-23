@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Alessandro Delgado", "Alexander Trefz"]
   spec.email         = ["adelgado1313@gmail.com", "alexander.trefz@gmail.com"]
   spec.summary       = %q{This is a Gem to wrap the JavaScript Annotator library}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/adelgado/annotator-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
