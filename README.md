@@ -34,7 +34,7 @@ Add the following directive to your Javascript manifest file (application.js):
 
 ## Versioning
 
-annotator-rails 2.0.0-alpha.2 == Annotator 2.0.0-alpha.2
+annotator-rails 2.0.0-alpha.3 -> Annotator 2.0.0-alpha.3
 
 Every attempt is made to mirror the currently shipping Annotator version
 number wherever possible. The major, minor, and patch version numbers will
