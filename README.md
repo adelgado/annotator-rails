@@ -37,7 +37,7 @@ Add the following directive to your Javascript manifest file (application.js):
 annotator-rails 2.0.0-alpha.3 -> Annotator 2.0.0-alpha.3
 
 Every attempt is made to mirror the currently shipping Annotator version
-number wherever possible. The major, minor, and patch version numbers will
+number whenever possible. The major, minor, and patch version numbers will
 always represent the Annotator version. Should a gem bug be discovered, a 4th
 version identifier will be added and incremented.
 
@@ -47,4 +47,4 @@ version identifier will be added and incremented.
 Thanks to [Derek Prior](https://github.com/derekprior) for his
 [blog post regarding Gem packaging](http://www.prioritized.net/blog/gemify-assets-for-rails/)
 and for packaging [momentjs-rails](https://github.com/derekprior/momentjs-rails).
-I shamelessly copyied the whole structure.
+I shamelessly copied the whole structure.
