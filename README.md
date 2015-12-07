@@ -6,7 +6,7 @@ higher. The gem includes the development (non-minified) source for ease of
 exploration. The asset pipeline will minify in production.
 
 Annotator is "an open-source JavaScript library to easily add annotation
-functionality to any webpage.". Please see the
+functionality to any webpage.". Please see its
 [documentation](https://annotator.readthedocs.org/en/latest/index.html) for
 details.
 
